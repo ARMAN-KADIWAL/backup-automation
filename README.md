@@ -37,7 +37,7 @@ flowchart LR
 ## Setup (Ubuntu/WSL)
 
 ```bash
-git clone https://github.com/kadiwalarman1-rgb/backup-automation.git
+git clone https://github.com/ARMAN-KADIWAL/backup-automation.git
 cd backup-automation
 python3.12 -m venv .venv
 source .venv/bin/activate
